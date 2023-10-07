@@ -19,8 +19,9 @@ Mami Tool Termux
 # > Requirements:
 
 
-python
-git
+--python--
+
+--git--
 
 
 
