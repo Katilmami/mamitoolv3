@@ -19,13 +19,15 @@ Mami Tool Termux
 # > Requirements:
 
 
-Python3
 python
+git
 
 
-python how to install:
 
 
+# Requirements install:
+
+`pkg install git -y`
 `pkg install python -y`
 
 ### 📌 How to install Tool
